@@ -22,3 +22,5 @@ you can also select directory path. all file names in that directory will change
 
 For example, if you enter file names as 'image' and file extension as 'jpg',
 all picture files in selected directory will change to "image1.jpg, image2.jpg, image3.jpg, ..."
+
+<img src = "https://user-images.githubusercontent.com/43144650/151673623-43fec74a-b1b9-495c-86d9-37283b8e5b33.png" width="700" height="350"/>
