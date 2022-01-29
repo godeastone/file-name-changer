@@ -4,8 +4,6 @@ from tkinter import filedialog
 import tkinter.messagebox
 
 
-
-
 def complete():
     tkinter.messagebox.showinfo("성공", "해당 경로의 모든 파일명이 변경되었습니다.")
 
@@ -76,13 +74,6 @@ def main():
     btn.pack()
 
     win.mainloop()
-
-
-    """
-    -----------------
-    """
-
-
 
 
 
